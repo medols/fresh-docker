@@ -1,7 +1,7 @@
 fresh-docker
 ============
 
-Docker container for using **[Fresh](http://github.com/medols/fresh) to develop many-core applications.
+Docker container for using **[Fresh](http://github.com/medols/fresh)** to develop many-core applications.
 
 ## Usage
 
